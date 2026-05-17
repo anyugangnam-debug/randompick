@@ -2,36 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://anyugangnam-debug.github.io/randompick/</loc>
+    <lastmod>2026-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://anyugangnam-debug.github.io/randompick/roulette</loc>
+    <loc>https://anyugangnam-debug.github.io/randompick/roulette/</loc>
+    <lastmod>2026-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://anyugangnam-debug.github.io/randompick/random-picker</loc>
+    <loc>https://anyugangnam-debug.github.io/randompick/random-picker/</loc>
+    <lastmod>2026-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://anyugangnam-debug.github.io/randompick/team-generator</loc>
+    <loc>https://anyugangnam-debug.github.io/randompick/team-generator/</loc>
+    <lastmod>2026-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://anyugangnam-debug.github.io/randompick/punishment-picker</loc>
+    <loc>https://anyugangnam-debug.github.io/randompick/punishment-picker/</loc>
+    <lastmod>2026-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://anyugangnam-debug.github.io/randompick/number-picker</loc>
+    <loc>https://anyugangnam-debug.github.io/randompick/number-picker/</loc>
+    <lastmod>2026-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://anyugangnam-debug.github.io/randompick/blog</loc>
+    <loc>https://anyugangnam-debug.github.io/randompick/blog/</loc>
+    <lastmod>2026-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
