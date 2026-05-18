@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /private/
-
-Sitemap: https://anyugangnam-debug.github.io/randompick/sitemap.xml
-

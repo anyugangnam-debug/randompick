@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "랜덤뽑기 - 가장 빠르고 직관적인 랜덤 선택기",
     description: "회원가입 없이 즉시 사용 가능한 모바일 최적화 랜덤 뽑기 유틸리티",
-    url: "https://gacha-picker.example.com",
+    url: "https://anyugangnam-debug.github.io/randompick",
     siteName: "랜덤뽑기",
     locale: "ko_KR",
     type: "website",
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     follow: true,
   },
   alternates: {
-    canonical: "https://gacha-picker.example.com",
+    canonical: "https://anyugangnam-debug.github.io/randompick",
   },
 };
 
